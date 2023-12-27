@@ -1,0 +1,1 @@
+<h3>@php dd($data) @endphp</h3>

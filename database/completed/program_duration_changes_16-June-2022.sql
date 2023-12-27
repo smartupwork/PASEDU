@@ -1,0 +1,1 @@
+ALTER TABLE `pas_program` ADD `duration_type` VARCHAR(100) NULL DEFAULT NULL AFTER `hours`, ADD `duration_value` FLOAT NULL DEFAULT NULL AFTER `duration_type`;
