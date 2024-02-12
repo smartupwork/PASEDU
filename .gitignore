@@ -54,7 +54,6 @@ Thumbs.db
 *.cache
 
 /nbproject/*
-storage/framework/*
 public/attachments/*
 public/uploads/*
 public/export/*
@@ -62,10 +61,6 @@ public/partners/*
 public/html/*
 public/phpMyAdmin/*
 public/pi.php
-public/.htaccess
-phpinfo.php
-public/info.php
-public/index.php
 
 bitbucket-pipelines.yml
 appspec.yml
